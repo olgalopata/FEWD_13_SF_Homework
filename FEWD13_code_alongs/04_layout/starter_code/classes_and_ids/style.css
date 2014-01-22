@@ -1,0 +1,30 @@
+body 
+{
+font-family: sans-serif;
+line-height: 1.4;
+margin: 30px;
+}
+#notification 
+{
+background: #eee;
+padding: 10px;
+border: 1px solid #ccc;
+}
+.message
+{
+	background: #eee;
+	padding: 15px;
+	border: 2px solid #ccb;
+	margin: 10px 0;
+}
+.error
+{
+	background: #fff;
+	border:#c66;
+}
+
+.success
+{
+	background: #bada55;
+	border:#c66;
+}

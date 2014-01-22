@@ -1,8 +1,11 @@
+html {
+    margin:0;
+}
 
 body {
     background-color: #7b7b7b;
   	font: 9px/1.5 Arial,Verdana,sans-serif;
-    margin: 9;
+    margin: 0;
     padding: 0;
 }
 
@@ -12,8 +15,14 @@ h1 {
     margin: 20px 0 0;
     font-size: 30px;
     font-family: sans-serif;
-    color: gray;
+    color: white;
+    float: left;
+    padding-left: 10px;
 
+}
+
+img {
+    float: left;
 }
 
 
@@ -59,5 +68,16 @@ div {
 	padding: 9;
 }
 
+#navigation {
+    margin-left:200px;
+    width:884px;
+    background-color:#FFA500;
+    height:25px;
+    text-align:center;
+    font-size:12px;
+    color:#4d4b4b;
+    padding:8px;
+    clear: both;
+}
 
 

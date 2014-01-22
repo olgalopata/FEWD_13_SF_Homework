@@ -1,0 +1,35 @@
+body{
+
+}
+header{
+	background: red;
+	width: 100%;
+	float: left;
+}
+
+#main{
+	background: yellow;
+	float:left;
+	width: 60%;
+}
+aside{
+	background: green;
+	float:right;
+	width:40%;
+}
+
+footer{
+	background: blue;	
+	float:left;
+	width: 100%;
+}
+.placeholder{
+	border: 1px solid black;
+	background: rgba(255, 255, 255, .6);
+	height: 150px;
+	margin: 10px;
+	padding: 20px;
+}
+#main div{
+	color: purple;
+}
